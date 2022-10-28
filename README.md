@@ -1,11 +1,11 @@
 <h1 align="center">CLUBER MOBILE GAME 3D</h1>
 
-<h2 align="center">Sorry the gif is in poor quality and was recorded at 25 fps</h2>
+<h2 align="center">Sorry the gif is in poor quality</h2>
 
 <div> 
 
 <p align="center">
-  <img width="800"  height="450" src="https://github.com/danielvcode/SecretWords/blob/main/Anima%C3%A7%C3%A3o.gif">
+  <img width="900"  height="550" src="https://github.com/danielvcode/SecretWords/blob/main/Anima%C3%A7%C3%A3o.gif">
 </p>
 
 <div></div>
@@ -14,7 +14,7 @@
 <h2 align="center">MOBILE</h2>
 
 <p align="center">
-  <img width="800"  height="450" src="https://github.com/danielvcode/SecretWords/blob/main/Screenshot_1.png">
+  <img width="900"  height="550" src="https://github.com/danielvcode/SecretWords/blob/main/Screenshot_1.png">
 </p>
 
 
