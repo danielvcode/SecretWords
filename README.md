@@ -5,7 +5,7 @@
 <div> 
 
 <p align="center">
-  <img width="1200"  height="700" src="https://github.com/danielvcode/SecretWords/blob/main/Anima%C3%A7%C3%A3o.gif">
+  <img width="1600"  height="500" src="https://github.com/danielvcode/SecretWords/blob/main/Anima%C3%A7%C3%A3o.gif">
 </p>
 
 <div></div>
@@ -14,7 +14,7 @@
 <h2 align="center">MOBILE</h2>
 
 <p align="center">
-  <img width="1200"  height="700" src="https://github.com/danielvcode/SecretWords/blob/main/Screenshot_1.png">
+  <img width="1600"  height="500" src="https://github.com/danielvcode/SecretWords/blob/main/Screenshot_1.png">
 </p>
 
 
