@@ -31,7 +31,7 @@
   ❯ git clone https://github.com/danielvcode/SecretWords
 
   # Enter directory
-  ❯ cd SecreteWords
+  ❯ cd SecretWords
 ```
 
 **Using yarn**
