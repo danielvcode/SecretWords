@@ -8,7 +8,6 @@
   <img width="1600"  height="500" src="https://github.com/danielvcode/SecretWords/blob/main/Anima%C3%A7%C3%A3o.gif">
 </p>
 
-<div></div>
  
  
 <h2 align="center">MOBILE</h2>
