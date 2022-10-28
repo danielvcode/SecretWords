@@ -1,6 +1,6 @@
-<h1 align="center">CLUBER MOBILE GAME 3D</h1>
+<h1 align="center">Secret Words</h1>
 
-<h2 align="center">Sorry the gif is in poor quality</h2>
+<h2 align="center">A simple game to guess the word through letter trials</h2>
 
 <div> 
 
